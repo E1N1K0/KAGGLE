@@ -7,7 +7,10 @@ Algunos ejercicios de Machine learning.
 
 
 ## INDEX = INDICE:
-  - EJ01: ...
+  - EJ01: Read data
+  - EJ02: Missing Values. Example.
+  - EJ03: Missing Values. Exercise.
+    
   
 
      
